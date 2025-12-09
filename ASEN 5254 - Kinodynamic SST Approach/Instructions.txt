@@ -1,0 +1,12 @@
+ASEN 5254 Final Project Code Instructions
+- Ian Faber, 12/04/2025
+
+There are 2 sets of code for my project, one for plotting and one for solving races.
+
+To plot the solutions shown in the report, run "SolutionPlotter.m" in the Final Project - MATLAB portion folder. 
+
+To solve a new race course, navigate to the Final Project - C++ portion folder and run "bash run.sh cubesatRacing"
+
+Once all CubeSats are solved for, the solutions will be populated in the solutions directory. To plot them, copy each CubeSat's text file to the Final Project - MATLAB portion directory and run "SolutionPlotter.m" again. To reset solutions to those found in the report, copy the runs in the "Official" directory in the solutions folder.
+
+Enjoy!
